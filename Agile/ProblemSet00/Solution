@@ -1,0 +1,73 @@
+-- ProblemSet<00>, November <27> <2018> 
+-- Submission by <sowmiya.sivalingam@accenture.com>  
+
+
+
+1)How does agile testing (development) methodology differ from other testing (development) methodologies?
+          Agile methodology's main goal is to satisfy the customer through early and continuous delivery of buisness value which is not follwed by other methodologies.
+
+2)What are the most important components of Agile?
+    Epic
+    Features
+    User stories
+    Tasks
+
+3)What is difference between Epic,features, User stories & Tasks?
+  Epic:The end product
+  Features:The properties of the end product
+  User stories: User requirements
+  Tasks:The woek to be done
+
+4)Explain what is a product backlog in Scrum
+        The task which is yet to be started refers to product backlog.
+
+5)What is Scrum Sprint?
+       The time period given to provide the buisness value.Usaully 2 0r 4 weeks is consider as 1 sprint.
+
+6)What are the artifacts of Scrum process?
+        Product Backlog
+  	Sprint Backlog
+	Burn-Down Chart
+	Increment
+
+7)What do you understand by sprint backlog?
+         The task in a sprint which is yet to be started refers to sprint backlog.
+
+8)What is the role of the Product Owner?
+        The role of product owner is to give the requirements to the buisness analysts in scrum team and measure their progress.
+
+9)What are the different roles in Scrum
+     Scrum master
+     Product owner
+     Scrum team
+
+10)What are the responsibilities of a Scrum Master
+          The responsibility of scrum  master is to connect with outer environment and provide the needs for their scrum team.
+
+11)What are different ceremonies and their importance in Scrum?
+        Stand up/scrum call
+        Sprint/PI planing
+	Sprint/PI demo
+	Sprint/PI retrospective
+	User Story growing
+	Sprint Review
+
+12)What is the difference between Sprint Planning Meeting and Sprint Retrospective Meeting?
+   Sprint planning Meeting which is done on day 1 of the sprint regarding the planning of what to be done during the sprint.
+   Sprint Retrospective Meeting is done on the last day of the sprint regarding what went well,what didnt and appreciations. 
+
+
+13)What is the difference between agile & scrum
+ Agile is a phyilosopy or methodology of SDLC where scrum is one of method to implement agile principles.
+
+14)Explain Agile in 30 seconds.
+	Agile is a phyilosopy where its primary goal is to create user value,buisness value by early and frequent feedback from the client.
+
+15)What is the Daily Stand-Up?
+     It is the scrum call where we update what we have done ,what have to be done and if any blockers to the client.
+
+
+
+
+
+
