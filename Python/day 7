@@ -1,0 +1,51 @@
+"""
+ for path,subdirs,files in os.walk(".",topdown=False):
+...    for name in files:
+...        print os.path.join(path,name)
+
+
+ count =0
+>>> for path,subdirs,files in os.walk(".",topdown=False):
+...    for name in files:
+...        count+=1
+...
+>>> print count
+
+for root,dirs,files in os.walk("."):
+...    for file in files:
+...       if file.endswith(".txt"):
+...         print(os.path.join(root,file))
+...
+"""
+"""
+import requests
+rep=requests.get("https://www.google.com/?gws_rd=ssl")
+if rep.status_code==200:
+    with open("google.htm",'wb') as obj:
+       obj.write(rep.content)
+"""
+"""
+import re
+with open("re.txt","r") as obj:
+     s=obj.read()
+     m=re.findall("([A-Za-z]+)\s.*\s(\$[0-9]+)",s)
+     print(m)
+
+"""
+"""
+import re
+s=raw_input("Enter the string")
+if(len(s)>=8):
+   m=re.findall("([A-Z]+[a-z]+([@]|[_]|[$])+[0-9]+)",s)
+   print(m)
+"""
+import re 
+n=input("Enter n")
+for i in range(n):
+    s=raw_input()
+    m=re.match("(^[4-6]{1}[0-9]{15})|([4-6][0-9]{3}([-][0-9]{4}){3}$)",s)
+    if(m==None):
+         print("invalid")
+    else:
+        print("valid")
+
